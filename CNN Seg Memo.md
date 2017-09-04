@@ -1,5 +1,5 @@
 
-## CNN Seg Memo
+## Two-Stream Segmentation Neural Network Memo
 
 * [Convolutional Two-Stream Network Fusion for Video Action Recognition](https://github.com/feichtenhofer/twostreamfusion)
   cvpr2016, framework:MatConvNet
