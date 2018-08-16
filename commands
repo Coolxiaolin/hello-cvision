@@ -16,4 +16,8 @@ conda env export > environment.yaml
 执行他人的代码时，也需要配置相应的环境。这时你可以用对方分享的 YAML 文件来创建一摸一样的运行环境。
 conda env create -f environment.yaml
 
+ anaconda search -t conda package_name
+ anaconda show name_from_the_list
+ conda install --channel https://conda.anaconda.org/jjh_cio_testing tensorflow-gpu
+
 
